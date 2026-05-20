@@ -1,0 +1,7 @@
+Mi primera práctica con Git y GitHub.
+
+Nombre: Jimena Valiente
+Curso: Ingeniería de Software - 4to semestre
+Fecha: 20 de mayo del 2026
+
+Estoy aprendiendo a usar control de versiones.
